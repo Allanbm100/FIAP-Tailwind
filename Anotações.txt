@@ -1,0 +1,8 @@
+Esse postcss.config.js é uma ferramenta que ajuda em relação ao desenvolvimento do css;
+Dentro dele, não é tão necessário mexer no arquivo, a menos que seja algo muito avançado.
+
+O tailwind.config.ts estiliza o que estiver dentro do content
+Supondo que eu crie uma página dentro de src chamada abobrinha, dentro do -
+- content, devo colocar o caminho dessa pasta e os arquivos lá dentro.
+
+*O tailwind usa o postcss para conseguir gerar as classes.
